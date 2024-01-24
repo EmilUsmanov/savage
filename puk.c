@@ -11,7 +11,7 @@ int main(void) {
     case '2' : printf("obosrano\n"); break;
     case '3' : printf("удовлетворительно\n"); break;
     case '4' : printf("хорошо\n"); break;
-    case '5' : printf("отлично\n"); break;      
+    case '5' : printf("ohuennoblyaaaaaaaa\n"); break;      
     default :  break;
   }
 
